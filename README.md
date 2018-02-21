@@ -8,5 +8,8 @@ A simple score keeping app built to learn about meteor and react.
 - React flip move for animating the players movements up and down the scoreboard
 
 # Screenshots
-![alt text](https://github.com/Lee-Sutton/meteor-score-keep/img/empty.jpeg "Empty score keep list")
-![alt text](https://github.com/Lee-Sutton/meteor-score-keep/img/populated.jpeg "Populated score keep list")
+## Empty score keep list
+![alt text](./img/empty.jpeg "Empty score keep list")
+
+## Populated score keep list
+![alt text](./img/populated.jpeg "Populated score keep list")
